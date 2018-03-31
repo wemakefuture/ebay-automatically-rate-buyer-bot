@@ -4,7 +4,7 @@ this automates your ratings for buyers on ebay.
 
 how to set it up?
 
-# git-clone https://github.com/wecanfuture/ebay-automatically-rate-buyer-bot.git
+> git-clone https://github.com/wecanfuture/ebay-automatically-rate-buyer-bot.git
 
 You can automate it via cronjob
 
